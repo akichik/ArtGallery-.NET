@@ -1,0 +1,15 @@
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\bin\Debug\netcoreapp3.1\ArtGallery.DataAccess.deps.json
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\bin\Debug\netcoreapp3.1\ArtGallery.DataAccess.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.csprojAssemblyReference.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.AssemblyInfo.cs
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\bin\Debug\netcoreapp3.1\ArtGallery.DataAccess.runtimeconfig.json
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\bin\Debug\netcoreapp3.1\ArtGallery.DataAccess.runtimeconfig.dev.json
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\bin\Debug\netcoreapp3.1\ArtGallery.Domain.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\bin\Debug\netcoreapp3.1\ArtGallery.Domain.pdb
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.csproj.CopyComplete
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.genruntimeconfig.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\bin\Debug\netcoreapp3.1\ArtGallery.DataAccess.pdb
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.DataAccess\obj\Debug\netcoreapp3.1\ArtGallery.DataAccess.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtGallery.Domain", "ArtGallery.Domain\ArtGallery.Domain.csproj", "{D46B7BEE-4FC0-4D15-A22D-9331C4804B63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtGallery.BLL", "ArtGallery.BLL\ArtGallery.BLL.csproj", "{06DE76CF-5EE7-4487-A4FF-F6BEBFB76D3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtGallery.DataAccess", "ArtGallery.DataAccess\ArtGallery.DataAccess.csproj", "{573D0DCD-300E-4D1E-BDBC-7E2D7A8ED896}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtGallery.BLL.Tests.Unit", "ArtGallery.BLL.Tests.Unit\ArtGallery.BLL.Tests.Unit.csproj", "{0C7B0614-C524-48D7-BC4B-1D3616D3D310}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtGallery.Client", "ArtGallery.Client\ArtGallery.Client.csproj", "{D4098A66-9CAA-46BA-89EF-0E16F4F556D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtGallery.WebApi", "ArtGallery.WebApi\ArtGallery.WebApi.csproj", "{7196B638-DA2E-454B-B84B-6C9DEC9B5C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46B7BEE-4FC0-4D15-A22D-9331C4804B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46B7BEE-4FC0-4D15-A22D-9331C4804B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46B7BEE-4FC0-4D15-A22D-9331C4804B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46B7BEE-4FC0-4D15-A22D-9331C4804B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DE76CF-5EE7-4487-A4FF-F6BEBFB76D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DE76CF-5EE7-4487-A4FF-F6BEBFB76D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DE76CF-5EE7-4487-A4FF-F6BEBFB76D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DE76CF-5EE7-4487-A4FF-F6BEBFB76D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573D0DCD-300E-4D1E-BDBC-7E2D7A8ED896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573D0DCD-300E-4D1E-BDBC-7E2D7A8ED896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573D0DCD-300E-4D1E-BDBC-7E2D7A8ED896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573D0DCD-300E-4D1E-BDBC-7E2D7A8ED896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7B0614-C524-48D7-BC4B-1D3616D3D310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7B0614-C524-48D7-BC4B-1D3616D3D310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7B0614-C524-48D7-BC4B-1D3616D3D310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7B0614-C524-48D7-BC4B-1D3616D3D310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4098A66-9CAA-46BA-89EF-0E16F4F556D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4098A66-9CAA-46BA-89EF-0E16F4F556D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4098A66-9CAA-46BA-89EF-0E16F4F556D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4098A66-9CAA-46BA-89EF-0E16F4F556D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7196B638-DA2E-454B-B84B-6C9DEC9B5C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7196B638-DA2E-454B-B84B-6C9DEC9B5C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7196B638-DA2E-454B-B84B-6C9DEC9B5C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7196B638-DA2E-454B-B84B-6C9DEC9B5C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB7C8AC-EBB4-4E93-9AFC-98BE7E813E72}
+	EndGlobalSection
+EndGlobal

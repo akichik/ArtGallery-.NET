@@ -1,0 +1,17 @@
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.csprojAssemblyReference.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.AssemblyInfoInputs.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.AssemblyInfo.cs
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.BLL.deps.json
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.BLL.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.Domain.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.Domain.pdb
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.csproj.CopyComplete
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.BLL.runtimeconfig.json
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.BLL.runtimeconfig.dev.json
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.BLL.pdb
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.DataAccess.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\bin\Debug\netcoreapp3.1\ArtGallery.DataAccess.pdb
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.pdb
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.BLL\obj\Debug\netcoreapp3.1\ArtGallery.BLL.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\bin\Debug\netcoreapp2.1\ArtGallery.Domain.deps.json
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\bin\Debug\netcoreapp2.1\ArtGallery.Domain.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\bin\Debug\netcoreapp2.1\ArtGallery.Domain.pdb
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\obj\Debug\netcoreapp2.1\ArtGallery.Domain.csprojAssemblyReference.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\obj\Debug\netcoreapp2.1\ArtGallery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\obj\Debug\netcoreapp2.1\ArtGallery.Domain.AssemblyInfoInputs.cache
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\obj\Debug\netcoreapp2.1\ArtGallery.Domain.AssemblyInfo.cs
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\obj\Debug\netcoreapp2.1\ArtGallery.Domain.dll
+C:\Users\kicha\Documents\Univer\Dot Net\.NET Labs\ArtGallery\ArtGallery\ArtGallery.Domain\obj\Debug\netcoreapp2.1\ArtGallery.Domain.pdb
