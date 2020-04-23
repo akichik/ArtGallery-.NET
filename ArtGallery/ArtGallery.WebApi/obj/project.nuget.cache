@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ASNCsJ+TKWpfvTCnInRiJiJsq8hHW/SffX87jkqgyw6YTBslvRgM7Hrh1TwTDMekdoZw8oba9a8k1T58G/Zq5Q==",
+  "dgSpecHash": "idzFwqOBx6rt2IIVxxUDGgoYqWcap0t6vFSiCaUH85zrxAImXmuYmcgYghuoKT0irMJ7/D1BIC7cmbiNuO7qXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kicha\\Documents\\Univer\\Dot Net\\.NET Labs\\ArtGallery\\ArtGallery\\ArtGallery.WebApi\\ArtGallery.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kicha\\.nuget\\packages\\autofixture\\4.11.0\\autofixture.4.11.0.nupkg.sha512",
     "C:\\Users\\kicha\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\kicha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\kicha\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\kicha\\.nuget\\packages\\fare\\2.1.1\\fare.2.1.1.nupkg.sha512",
     "C:\\Users\\kicha\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
